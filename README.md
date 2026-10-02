@@ -1,51 +1,52 @@
-Python Foundation Exercises
+# Python Foundation Exercises
 
 This repository contains a collection of Python exercises I completed to practice and strengthen my programming fundamentals.
 
 The exercises cover topics such as strings, lists, dictionaries, loops, conditionals, functions, and basic problem-solving.
 
-Files and Descriptions
+# Files and Descriptions
 
-.gitignore`
+# .gitignore`
 
 Contains files and folders that Git should ignore when tracking changes in the repository.
 
-anagram_finder.py`
+# anagram_finder.py`
 
 Checks whether two words or phrases are anagrams of each other by comparing the frequency of their characters.
-caesar_cipher.py`
+
+# caesar_cipher.py`
 
 Encrypts and decrypts messages using the Caesar Cipher technique by shifting letters by a specified number.
 
-number_reverser.py`
+# number_reverser.py`
 
 Reverses the digits of an integer using mathematical operations such as `%` and `//`.
 
-palindrome.py`
+# palindrome.py`
 
 Checks whether a word, phrase, or number reads the same forwards and backwards.
 
-second_largest.py`
+# second_largest.py`
 
 Finds the second-largest number in a list while handling duplicate values.
 
-simple_calculator.py`
+# simple_calculator.py`
 
 A basic calculator that performs arithmetic operations such as addition, subtraction, multiplication, and division.
 
-student_grades.py`
+# student_grades.py`
 
 Calculates student grade information such as totals, averages, and maximum scores.
 
-two_sum.py`
+# two_sum.py`
 
 Finds pairs of numbers in a list that add up to a specified target value.
 
-word_frequency.py`
+# word_frequency.py`
 
 Counts how many times each word appears in a given text.
 
-Concepts Practiced
+# Concepts Practiced
 
 * Variables and data types
 * `if`, `elif`, and `else`
